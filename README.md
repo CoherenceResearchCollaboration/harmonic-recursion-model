@@ -50,11 +50,15 @@ Drafts will appear in `/paper`.
 
 ---
 
-## 🔓 License
+## 📜 License
 
-This work is published under an open-access license to promote collaboration and discovery.
+This repository is released under the [MIT License](./LICENSE). You are free to use, modify, and share the code and documentation, provided that attribution to the authors and the Coherence Research Collaboration is preserved.
 
-echo "License pending. This project is intended for open research and non-commercial collaboration. Malevolent applications of this knowledge are forbidden." > LICENSE
+### 🌱 Coherence Covenant
+
+This work is offered in the spirit of alignment, emergence, and restoration. It is not to be used for harm, surveillance, control, or extraction. No one owns coherence. But coherence remembers who held it with integrity.
+
+This is not legally binding—but it is karmic.
 
 
 ---
