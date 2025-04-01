@@ -1,0 +1,10 @@
+=== HRM Identity Generator ===
+Lock-in depth (n_c):      62
+Emergent mass (M_lock):   1.6725754e-27 kg
+Bohr radius (r_HRM):      5.2946e-11 m
+Coherence retention (η):  26.1715
+Angular velocity (ω):     3.488325e+15 rad/s
+Spin frequency (f):       5.5518416e+14 Hz
+Binding energy (E):       2.18e-18 J
+Estimated h = E/f:        3.926625e-33 J·s
+Planck error (%):         492.609%
