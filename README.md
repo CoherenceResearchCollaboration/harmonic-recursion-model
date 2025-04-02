@@ -2,12 +2,13 @@
 
 This repository contains the reference implementation of the Harmonic Recursion Model (HRM), a generative framework for mass, light, energy, spin, and time emerging from recursive coherence. It is intended to support scientific review, verification, and early-stage exploration of HRM by physicists, complexity theorists, and coherence researchers.
 
-## 📄 Download the Paper
+## 📄 Read the HRM Paper (PDF)
 
-**[Click here to read the full PDF →](https://github.com/CoherenceResearchCollaboration/harmonic-recursion-model/blob/main/paper/KBH_CRC_HRM_033125_v1.0.pdf)**  
-SHA256: `2dd058f3039d8298f6e9e4dea49da62a820f9ffce65a856ce6bb91df825ae920`  
-[Registered on Ethereum](https://etherscan.io/tx/0x654b2ac0596e8b9b5b1fe89830efcd9116eec8db7b7e9635fa16694398bdb48)
+**Harmonic Recursion Model v1.0**  
+📎 SHA256: `2dd058f3039d8298f6e9e4dea49da62a820f9ffce65a856ce6bb91df825ae920`  
+⛓️ [View on Etherscan](https://etherscan.io/tx/0x654b2ac0596e8b9b5b1fe89830efcd9116eec8db7b7e9635fa16694398bdb48)
 
+🔗 **[Read or download the paper →](https://raw.githubusercontent.com/CoherenceResearchCollaboration/harmonic-recursion-model/main/paper/KBH_CRC_HRM_033125_v1.0.pdf)** 
 
 ## What This Is
 - A minimal, reproducible implementation of HRM identity emergence using recursive geometry
